@@ -1,0 +1,15 @@
+.bg-azul{
+    background-color: #141fbe;
+
+}
+
+.c-blanco{
+    color: white;
+}
+
+.btn-animado:hover{
+    border: 1px solid #8011f2;
+    background-color: white;
+    color:#8011f2;
+    transition: 0.2s ease-in-out;
+}

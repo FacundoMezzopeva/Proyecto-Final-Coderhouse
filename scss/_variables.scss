@@ -1,0 +1,19 @@
+$color-principal: #FFC107;
+$color-auxiliar: white;
+
+$font-princ: 'Signika', sans-serif;
+$font-sec: 'Roboto', sans-serif;
+
+@mixin estr_texto{
+    line-height:1.5rem;
+    font-size: medium;
+    text-align: center;
+}
+
+.titulo {
+    font-family: 'Signika', sans-serif;
+}
+
+.txtSec {
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,7 +1,11 @@
-
 *{
     margin: 0;
     padding: 0;
+}
+
+body{
+    min-height: 100vh;
+    background-color: gray;
 }
 
 .titulo{
@@ -11,13 +15,6 @@
 .txtSec{
     font-family: 'Roboto', sans-serif;
     
-}
-
-
-
-body{
-    min-height: 100vh;
-    background-color: gray;
 }
 
 .c-blanco{

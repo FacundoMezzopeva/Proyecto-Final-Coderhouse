@@ -9,7 +9,16 @@ body {
 }
 
 h1, .hover_sec:hover {
-    color: color-principal;
+    color: $color-principal;
 }
-
-
+h2{
+    background: linear-gradient(to top, $color-principal, white);
+    -webkit-background-clip: text;
+    color: transparent; 
+}
+h1{
+    font-family: $font-princ;
+}
+a, p{
+    font-family: $font-sec;
+}

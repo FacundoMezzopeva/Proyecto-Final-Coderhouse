@@ -16,6 +16,9 @@ h2{
     -webkit-background-clip: text;
     color: transparent; 
 }
+.btn-form{
+    background: linear-gradient(to top, $color-principal, white);
+}
 h1{
     font-family: $font-princ;
 }
